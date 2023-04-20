@@ -1,2 +1,5 @@
 # lenovo-thinkcenter-tiny-comparison
-Lenovo Thinkcenter Tiny Comparison guide
+
+[Lenovo Thinkcenter Tiny Guide](lenovo-tiny-guide.md)
+
+
